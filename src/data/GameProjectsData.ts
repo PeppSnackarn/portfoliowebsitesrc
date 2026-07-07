@@ -1,7 +1,7 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "Nicke testing shit", "img/projects/dafo.png", 
+    new ProjectData("project-1", "Neighbors: Suburban Warfare", "img/projects/Neighbors/nswico.png", 
     `
     <div class="paragraph">
      <strong>Hell ye</strong> I hope this works after build.
@@ -28,7 +28,7 @@ export default [
         <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
     </div>
     `, "#23bd69", true),
-    new ProjectData("project-2", "Singing Addict", "img/projects/project-2-icon.png", `
+    new ProjectData("project-2", "Deep Rock Galactic", "img/projects/DRG/DRG_Season06_KeyArtTeaser_FINAL_01.png", `
     <div class="paragraph">
         <strong>Optimistic Chubby Blog</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
         <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@adonyi-gabor-604571">Adonyi Gábor</a>.
@@ -61,7 +61,7 @@ export default [
     <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
     </div>
     `, "#5a78af"),
-    new ProjectData("project-3", "Drawing Overload", "img/projects/project-3-icon.png", `
+    new ProjectData("project-3", "Nothing To Lose", "img/projects/project-3-icon.png", `
     <div class="paragraph">
         <strong>Drawing Overload</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
         <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@miphotography">Miesha Maiden</a>.
