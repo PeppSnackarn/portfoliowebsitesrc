@@ -5,16 +5,18 @@
     <div class="paragraph">
       <div>
         I'm <strong>Nikodemius Ivarsson</strong>, an educated and passionate game developer.<br/>
-        I have studied for 5.5 years unbroken with Unity & Unreal Engine Gameplay & AI programming.
+        I have studied for 5.5 years unbroken in <strong>Unity & Unreal Engine</strong> as a <strong>Gameplay & AI Programmer</strong>.
       </div>
 
-      <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
+      <div style="margin-top: 20px;"> I have also worked at <strong>Invisible Walls APS</strong>. Where I got the oppurtunity to work on games such as <a href="https://store.steampowered.com/app/1732430/Neighbors_Suburban_Warfare/" target="_blank">Neighbors: Suburban Warfare</a> and <a href="https://www.deeprockgalactic.com/season-06" target="_blank">Deep Rock Galactic: Season 6</a>. 
+        Gaining valuable Unreal Engine experience and knowledge about working in a professional game studio environment.
+      </div>
 
-      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong> as a monk, like my good friend John Rambo did a few years back. You can reach me at <a href="mailto:johnmatrix@deltaforce.us">johnmatrix@deltaforce.us</a> or <router-link to="/contact">through here</router-link>.</div>
+      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong> as a <strong>Gameplay & AI Programmer</strong>. You can reach me at <a href="mailto:NikodemiusIvarsson@outlook.com">NikodemiusIvarsson@outlook.com</a> or <router-link to="/contact">through here</router-link>.</div>
     </div>
 
     <div class="photo">
-      <img src="img/avatar.png" alt="Avatar of John" /> 
+      <img src="img/jurassicparaknicke.png" alt="Picture of Nicke" /> 
     </div>
 
     <div style="clear:both"></div>
@@ -29,7 +31,7 @@
 }
 
 .photo {
-  margin-top: 50px;
+  margin-top: 30px;
   text-align: center;
 }
 
