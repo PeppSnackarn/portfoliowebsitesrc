@@ -3,7 +3,8 @@
     <h1>Other stuff</h1>
 
     <div style="margin-bottom: 30px;">
-      And here are some other stuff I've made or heavily contributed to, which are totally different than the stuff from earlier.
+      Here are some other projects that I have created on my own time. These projects might not be as polished or game-ready as the ones I have worked on professionally, but they are still a testament to my skills and creativity.
+      Each project has a link to the source code on GitHub, and several videos and screenshots of the project in action. I hope you enjoy them!
     </div>
     <ProjectsList v-bind:projects="projects" />
   </div>
