@@ -3,104 +3,30 @@ import ProjectData from '@/data/ProjectData.ts'
 export default [
     new ProjectData("project-6", "AI Director", "img/projects/project-6-icon.png", `
     <div class="paragraph">
-      <strong>AI Director</strong> is a thing of beauty that I am so proud of. It's available on Windows Store because why not.
-      <br/>Image by <a href="https://www.pexels.com/fr-fr/@aldoalz" target="blank">Aldo Picaso</a>.
+      <strong>AI Director</strong> This project is currently being worked on in private and is not available for public viewing. I will be releasing more information about this project in the future.
             </div>
-            <div class="paragraph center">
-              <a href="https://www.microsoft.com/en-us/p/some-app" target="_blank"><img src="img/projects/ms-store-logo.png" alt="MS Store button" /></a>
-          </div>
 
           <div class="paragraph">
             Main features :
             <ul>
-            <li>Some stuff</li>
-            <li>Some great stuff</li>
-            <li>More awesome stuff</li>
-            <li>And then some</li>
+            <li>Modular AI Director game-state component</li>
+            <li>"Utility AI" director modifying enemy AI decision making</li>
+            <li>"Dummy enemy AI" for easier testing purposes for future AI development</li>
             </ul>
-        </div>
 
-        <div class="paragraph center">
-          <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="AI Director Screenshot" />
-          <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="AI Director Screenshot" />
-          <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="AI Director Screenshot" /> 
         </div>
     `, "#c10606", false, true),
     new ProjectData("project-7", "Moody AI", "img/projects/project-7-icon.png", `
     <div class="paragraph">
-                <strong>Moody AI</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-                <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@karolina-grabowska">Karolina Grabowska</a>.
+                <strong>Moody AI</strong> Is a project I worked on as a side project for fun during my specialized gameplay programming course at FutureGames. The project is a small learning project for me where I learnt about doing Unreal BT's entirely in C++,
+                and creating a small AI "attack token" system seen in games such as Doom 2016.
             </div>
 
             <div class="paragraph">
               Main features :
               <ul>
-              <li>Some stuff</li>
-              <li>Some great stuff</li>
-              <li>More awesome stuff</li>
-              <li>And then some</li>
+              <li>Unreal Behavior Tree written entirely in C++</li>
+              <li>AI "attack token" system</li>
               </ul>
           </div>
-
-            <div class="paragraph">
-              <div class="notice">
-                You can download and try the app for free or purchase it directly from <a href="http://www.somewbsite.com/" target="_blank">Some website</a>
-              </div>
-            </div>
-
-            <div class="paragraph center">
-                <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drew Blood Screenshot" />
-                <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drew Blood Screenshot" />
-                <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drew Blood Screenshot" /> 
-            </div>`, "#1ca1e2"),
-    new ProjectData("project-8", "The Art of Walking", "img/projects/project-8-icon.png", `
-    <div class="paragraph">
-                <strong>The Art of Walking</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-            </div>
-
-            <div class="paragraph center">
-              <a href="https://play.google.com/store/apps/details?id=someapp" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
-          </div>
-
-          <div class="paragraph">
-          Main features :
-          <ul>
-          <li>Some stuff</li>
-          <li>Some great stuff</li>
-          <li>More awesome stuff</li>
-          <li>And then some</li>
-          </ul>
-      </div>
-
-            <div class="paragraph">
-              <div class="notice">
-                Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-              </div>
-            </div>
-
-            <div class="paragraph center">
-                <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="The Art of Walking Screenshot" />
-                <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="The Art of Walking Screenshot" />
-            </div>`),
-    new ProjectData("project-9", "Nikolable", "img/projects/project-9-icon.png", `
-     <div class="paragraph">
-                <strong>Nikolable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-                <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@goumbik">Lukas</a>.
-            </div>
-
-            <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
-
-            <div class="paragraph">
-              <div class="notice">
-                Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-              </div>
-            </div>`),
-];
+            </div>`, "#1ca1e2"),];
